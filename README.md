@@ -1,1 +1,3 @@
-# SMA_Grp-4
+# Ethical Issues Caused by AI (art)
+
+### Problem Statement:
