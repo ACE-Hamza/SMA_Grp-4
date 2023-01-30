@@ -1,7 +1,7 @@
 # Ethical Issues Caused by AI
 
 ### Problem Statement:
-To identify and analyze the ethical issues caused by AI using relevant posts and discussions on Reddit. 
+To identify and analyze the ethical issues caused by AI using relevant posts and discussions on Reddit. <br><br>
 Data from posts and discussions is fetched using the Reddit API. 
 The data is then cleaned and relevant information is gathered.
 Basic data preprocessing is performed to bring the data into a format on which the analysis can be performed.
