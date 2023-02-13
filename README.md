@@ -12,3 +12,12 @@ Data is sourced using the Reddit API. Certain predetermined search queries are u
 
 ### Code:
 https://colab.research.google.com/drive/17KhXgBs059Lhc70GQKDOz84p6lVEjh2-#scrollTo=x1Qa1DbQcix0
+
+
+
+
+
+- pip install networkx
+- pass a dictionary { (a, b): dist }
+- time series
+- co-occurence graph
