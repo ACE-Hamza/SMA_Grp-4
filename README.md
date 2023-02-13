@@ -16,8 +16,10 @@ https://colab.research.google.com/drive/17KhXgBs059Lhc70GQKDOz84p6lVEjh2-#scroll
 
 
 
-
+### to-do
 - pip install networkx
 - pass a dictionary { (a, b): dist }
 - time series
 - co-occurence graph
+- LDA
+- Some circle diagram
